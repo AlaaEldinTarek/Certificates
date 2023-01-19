@@ -1,16 +1,16 @@
 
-# 1-Introduction to Front-End Development
+# 6-Advanced React
 
 
 
 
 
 
-![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CPDSRGD4MR97/CERTIFICATE_LANDING_PAGE~CPDSRGD4MR97.jpeg)
+![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LKRCL2DGQG58/CERTIFICATE_LANDING_PAGE~LKRCL2DGQG58.jpeg)
 
 
 ### See this Certificate Online
 
 
-[Click here](https://www.coursera.org/account/accomplishments/verify/CPDSRGD4MR97)
+[Click here](https://www.coursera.org/account/accomplishments/verify/LKRCL2DGQG58)
 
