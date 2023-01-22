@@ -4,8 +4,6 @@
 
 
 
-
-
 ![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GT55BQCGQQKL/CERTIFICATE_LANDING_PAGE~GT55BQCGQQKL.jpeg)
 
 
