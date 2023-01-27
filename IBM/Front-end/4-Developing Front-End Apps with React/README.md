@@ -5,7 +5,7 @@
 
 
 
-![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~59G9CRY7Q4XP/CERTIFICATE_LANDING_PAGE~59G9CRY7Q4XP.jpeg)
+![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BLCEYUQQG5PS/CERTIFICATE_LANDING_PAGE~BLCEYUQQG5PS.jpeg)
 
 
 ### See this Certificate Online
