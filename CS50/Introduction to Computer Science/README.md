@@ -4,11 +4,11 @@
 
 
 
-![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~H8W33VPHV24H/CERTIFICATE_LANDING_PAGE~H8W33VPHV24H.jpeg)
+![Logo](https://cs50.harvard.edu/certificates/f28ddbad-ca41-42c2-b111-5afbd09163fd)
 
 
 ### See this Certificate Online
 
 
-[Click here](https://www.coursera.org/account/accomplishments/verify/H8W33VPHV24H)
+[Click here](https://cs50.harvard.edu/certificates/f28ddbad-ca41-42c2-b111-5afbd09163fd)
 
