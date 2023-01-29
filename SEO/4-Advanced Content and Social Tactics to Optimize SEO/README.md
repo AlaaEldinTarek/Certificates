@@ -3,11 +3,12 @@
 
 
 
-![Logo](https://cs50.harvard.edu/certificates/f28ddbad-ca41-42c2-b111-5afbd09163fd)
+
+![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EWKMYHW2YVBZ/CERTIFICATE_LANDING_PAGE~EWKMYHW2YVBZ.jpeg)
 
 
 ### See this Certificate Online
 
 
-[Click here](https://cs50.harvard.edu/certificates/f28ddbad-ca41-42c2-b111-5afbd09163fd)
+[Click here](https://www.coursera.org/account/accomplishments/verify/EWKMYHW2YVBZ)
 
