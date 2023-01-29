@@ -4,7 +4,6 @@
 
 
 
-
 ![Logo](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SLJH37BW8C9Y/CERTIFICATE_LANDING_PAGE~SLJH37BW8C9Y.jpeg)
 
 
